@@ -39,7 +39,7 @@ Here’s the original design used as reference for this project:
 
 ## 📸 Preview
 
-![Nexcent Landing Page Screenshot](src/screenshots/screenshot.jpg)
+![Nexcent Landing Page Screenshot](screenshots/screenshot.jpg)
 
 🌐 [Live Demo](https://nexcent-landing-ebon.vercel.app/)
 
